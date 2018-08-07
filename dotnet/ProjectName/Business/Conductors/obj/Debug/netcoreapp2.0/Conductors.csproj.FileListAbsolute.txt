@@ -1,0 +1,8 @@
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/bin/Debug/netcoreapp2.0/ProjectName.Conductors.deps.json
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/bin/Debug/netcoreapp2.0/ProjectName.Conductors.dll
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/bin/Debug/netcoreapp2.0/ProjectName.Conductors.pdb
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/obj/Debug/netcoreapp2.0/Conductors.csproj.CoreCompileInputs.cache
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/obj/Debug/netcoreapp2.0/Conductors.AssemblyInfoInputs.cache
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/obj/Debug/netcoreapp2.0/Conductors.AssemblyInfo.cs
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/obj/Debug/netcoreapp2.0/ProjectName.Conductors.dll
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Business/Conductors/obj/Debug/netcoreapp2.0/ProjectName.Conductors.pdb

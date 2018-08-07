@@ -1,0 +1,10 @@
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/bin/Debug/netcoreapp2.0/Data.SqlServer.deps.json
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/bin/Debug/netcoreapp2.0/Data.SqlServer.dll
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/bin/Debug/netcoreapp2.0/Data.SqlServer.pdb
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/bin/Debug/netcoreapp2.0/ProjectName.Business.Core.dll
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/bin/Debug/netcoreapp2.0/ProjectName.Business.Core.pdb
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/obj/Debug/netcoreapp2.0/Data.SqlServer.csproj.CoreCompileInputs.cache
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/obj/Debug/netcoreapp2.0/Data.SqlServer.AssemblyInfoInputs.cache
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/obj/Debug/netcoreapp2.0/Data.SqlServer.AssemblyInfo.cs
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/obj/Debug/netcoreapp2.0/Data.SqlServer.dll
+/Users/lavonnediller/Documents/InterviewProject/docker-dotnet-example/dotnet/ProjectName/Infrastructure/Data.SqlServer/obj/Debug/netcoreapp2.0/Data.SqlServer.pdb
